@@ -5,14 +5,35 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e69521ba-70e7-4543-923b-91f5876f421c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Practical_File.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Program_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Program_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Program(10).py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Program(11).py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Program(12).py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Program(13).py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Program(14).py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Program(15).py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Program(16).py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Program(17).py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Program(18).py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Program(19).py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Program(2).py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Program(2).py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Program(20).py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Program(21).py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Program(22).py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Program(23).py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Program(24).py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Program(25).py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Program(26).py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Program(27).py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Program(28).py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Program(29).py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Program(3).py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Program(30).py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Program(4).py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Program(5).py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Program(6).py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Program(7).py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Program(8).py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Program(9).py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,6 +63,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.Program(2).executor": "Debug",
     "Python.Program_1.executor": "Debug",
     "Python.Program_2.executor": "Debug",
     "RunOnceActivity.ShowReadmeOnStart": "true",

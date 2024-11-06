@@ -11,7 +11,7 @@ def create_files(base_name, file_extension, start_num, end_num, directory="."):
         filename = f"{base_name}({i}){file_extension}"
         file_path = os.path.join(directory, filename)
         with open(file_path, 'w') as f:
-            f.write(f"File: {filename}\nThis is file number {i}")
+            f.write("print(\"hello\")")
         print(f"Created file: {file_path}")
 
 #__main__
