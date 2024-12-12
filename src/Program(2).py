@@ -2,7 +2,6 @@
 
 import os
 
-
 def create_files(base_name, file_extension, start_num, end_num, directory="."):
     # Ensure the directory exists
     os.makedirs(directory, exist_ok=True)

@@ -1,2 +1,1 @@
-input_ = int(input("Enter a number: "))
-print("Even" if input_ % 2 == 0 else "odd")
+print("Even" if int(input("Enter a number: ")) % 2 == 0 else "odd")

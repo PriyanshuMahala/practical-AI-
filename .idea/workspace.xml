@@ -4,36 +4,24 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e69521ba-70e7-4543-923b-91f5876f421c" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/Program(10).py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Program(11).py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Program(12).py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Program(13).py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Program(14).py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Program(15).py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Program(16).py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Program(17).py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Program(18).py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Program(19).py" beforeDir="false" />
+    <list default="true" id="e69521ba-70e7-4543-923b-91f5876f421c" name="Changes" comment="na">
+      <change beforePath="$PROJECT_DIR$/.idea/Practical_File.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Practical_File.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Program(1).py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Program(1).py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Program(10).py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Program(10).py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Program(11).py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Program(11).py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Program(12).py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Program(12).py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Program(13).py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Program(13).py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Program(14).py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Program(14).py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Program(15).py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Program(15).py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Program(2).py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Program(2).py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Program(20).py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Program(21).py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Program(22).py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Program(23).py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Program(24).py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Program(25).py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Program(26).py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Program(27).py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Program(28).py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Program(29).py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Program(3).py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Program(30).py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Program(4).py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Program(5).py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Program(6).py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Program(7).py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Program(8).py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Program(9).py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Program(3).py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Program(3).py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Program(4).py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Program(4).py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Program(5).py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Program(5).py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Program(6).py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Program(6).py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Program(7).py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Program(7).py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Program(8).py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Program(8).py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Program(9).py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Program(9).py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,6 +38,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;PriyanshuMahala&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/PriyanshuMahala/practical-AI-&quot;,
+    &quot;accountId&quot;: &quot;80f5d7f3-6286-45a8-bb6f-fcdf715c15c9&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1
 }</component>
@@ -63,10 +63,22 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.Program(10).executor": "Debug",
+    "Python.Program(11).executor": "Debug",
+    "Python.Program(13).executor": "Debug",
+    "Python.Program(14).executor": "Debug",
     "Python.Program(2).executor": "Debug",
+    "Python.Program(3).executor": "Debug",
+    "Python.Program(4).executor": "Debug",
+    "Python.Program(5).executor": "Debug",
+    "Python.Program(6).executor": "Debug",
+    "Python.Program(7).executor": "Debug",
+    "Python.Program(8).executor": "Debug",
+    "Python.Program(9).executor": "Debug",
     "Python.Program_1.executor": "Debug",
     "Python.Program_2.executor": "Debug",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "ToolWindow.Run.ShowToolbar": "false",
     "full.screen.before.presentation.mode": "false",
     "git-widget-placeholder": "master",
@@ -76,7 +88,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-d7ad00fb9fc3-c546a90a8094-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-242.23726.102" />
+        <option value="bundled-python-sdk-fb887030ada0-aa17d162503b-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-243.21565.199" />
       </set>
     </attachedChunks>
   </component>
@@ -89,6 +101,19 @@
       <option name="presentableId" value="Default" />
       <updated>1730121070176</updated>
     </task>
+    <task id="LOCAL-00001" summary="na">
+      <option name="closed" value="true" />
+      <created>1730883635759</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1730883635759</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="na" />
+    <option name="LAST_COMMIT_MESSAGE" value="na" />
   </component>
 </project>
