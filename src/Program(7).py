@@ -1,4 +1,4 @@
-#bubble sort in python
+#bubble sort function in python
 
 def bubble_sort(list):
 
@@ -8,3 +8,5 @@ def bubble_sort(list):
                 temp_val = list[j + 1]
                 list[j+1] = list[j]
                 list[j] = temp_val
+
+

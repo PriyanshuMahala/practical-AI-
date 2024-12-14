@@ -1,6 +1,5 @@
-from math import sqrt
-
 #Calucate curved surface area, total area, volume AND slant height of cone
+from math import sqrt
 
 PI = 22 / 7
 

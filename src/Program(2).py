@@ -1,9 +1,8 @@
 # script to create a lot of files faster
-
 import os
 
 def create_files(base_name, file_extension, start_num, end_num, directory="."):
-    # Ensure the directory exists
+    # Ensure that the directory exists
     os.makedirs(directory, exist_ok=True)
 
     for i in range(start_num, end_num + 1):
@@ -12,8 +11,6 @@ def create_files(base_name, file_extension, start_num, end_num, directory="."):
         with open(file_path, 'w') as f:
             f.write("print(\"hello\")")
         print(f"Created file: {file_path}")
-
-#__main__
 
 file_Name = input("Enter base file name: ")
 file_extension = input("Enter file extension: ")

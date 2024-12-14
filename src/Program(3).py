@@ -1,5 +1,4 @@
 #calculator
-
 while True:
     print("+, -, *, /, (e)xit")
     operation = input("Enter: ").lower()

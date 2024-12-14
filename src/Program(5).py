@@ -6,3 +6,4 @@ def factorial(n):
     return n * factorial(n - 1)
 
 print(f"3! = {factorial(3)}")
+

@@ -10,3 +10,4 @@ for i in range(len(word) // 2):
 
 
 print("Yes" if is_palindrome else "No")
+

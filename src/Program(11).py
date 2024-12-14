@@ -1,4 +1,4 @@
-# print the table of num
-num = int(input("Enter a number: "))
+# print the table of n
+n = int(input("Enter a number: "))
 for i in range(1, 11):
-    print(f"{num} x {i} = {num * i}")
+    print(f"{n} x {i} = {n * i}")

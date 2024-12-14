@@ -4,16 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e69521ba-70e7-4543-923b-91f5876f421c" name="Changes" comment="na">
-      <change beforePath="$PROJECT_DIR$/.idea/Practical_File.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Practical_File.iml" afterDir="false" />
+    <list default="true" id="e69521ba-70e7-4543-923b-91f5876f421c" name="Changes" comment="Half done">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Program(1).py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Program(1).py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Program(10).py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Program(10).py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Program(11).py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Program(11).py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Program(12).py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Program(12).py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Program(13).py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Program(13).py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Program(14).py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Program(14).py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Program(15).py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Program(15).py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Program(16).py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Program(16).py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Program(17).py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Program(17).py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Program(18).py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Program(18).py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Program(2).py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Program(2).py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Program(3).py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Program(3).py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Program(4).py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Program(4).py" afterDir="false" />
@@ -63,10 +62,15 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.Program(1).executor": "Debug",
     "Python.Program(10).executor": "Debug",
     "Python.Program(11).executor": "Debug",
     "Python.Program(13).executor": "Debug",
     "Python.Program(14).executor": "Debug",
+    "Python.Program(15).executor": "Debug",
+    "Python.Program(16).executor": "Debug",
+    "Python.Program(17).executor": "Debug",
+    "Python.Program(18).executor": "Debug",
     "Python.Program(2).executor": "Debug",
     "Python.Program(3).executor": "Debug",
     "Python.Program(4).executor": "Debug",
@@ -109,11 +113,20 @@
       <option name="project" value="LOCAL" />
       <updated>1730883635759</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Half done">
+      <option name="closed" value="true" />
+      <created>1734006238596</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1734006238596</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="na" />
-    <option name="LAST_COMMIT_MESSAGE" value="na" />
+    <MESSAGE value="Half done" />
+    <option name="LAST_COMMIT_MESSAGE" value="Half done" />
   </component>
 </project>
