@@ -4,23 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e69521ba-70e7-4543-923b-91f5876f421c" name="Changes" comment="Half done">
+    <list default="true" id="e69521ba-70e7-4543-923b-91f5876f421c" name="Changes" comment="17 file donavanti">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Program(10).py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Program(10).py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Program(11).py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Program(11).py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Program(13).py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Program(13).py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Program(14).py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Program(14).py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Program(16).py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Program(16).py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Program(17).py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Program(17).py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Program(18).py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Program(18).py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Program(2).py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Program(2).py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Program(3).py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Program(3).py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Program(4).py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Program(4).py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Program(5).py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Program(5).py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Program(6).py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Program(6).py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Program(7).py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Program(7).py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Program(8).py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Program(8).py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Program(9).py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Program(9).py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Program(19).py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Program(19).py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Program(20).py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Program(20).py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Program(21).py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Program(21).py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Program(22).py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Program(22).py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Program(23).py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Program(23).py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Program(24).py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Program(24).py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Program(25).py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Program(25).py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,7 +64,14 @@
     "Python.Program(16).executor": "Debug",
     "Python.Program(17).executor": "Debug",
     "Python.Program(18).executor": "Debug",
+    "Python.Program(19).executor": "Debug",
     "Python.Program(2).executor": "Debug",
+    "Python.Program(20).executor": "Debug",
+    "Python.Program(21).executor": "Debug",
+    "Python.Program(22).executor": "Debug",
+    "Python.Program(23).executor": "Debug",
+    "Python.Program(24).executor": "Debug",
+    "Python.Program(25).executor": "Debug",
     "Python.Program(3).executor": "Debug",
     "Python.Program(4).executor": "Debug",
     "Python.Program(5).executor": "Debug",
@@ -121,12 +121,21 @@
       <option name="project" value="LOCAL" />
       <updated>1734006238596</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="17 file donavanti">
+      <option name="closed" value="true" />
+      <created>1734176018230</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1734176018230</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="na" />
     <MESSAGE value="Half done" />
-    <option name="LAST_COMMIT_MESSAGE" value="Half done" />
+    <MESSAGE value="17 file donavanti" />
+    <option name="LAST_COMMIT_MESSAGE" value="17 file donavanti" />
   </component>
 </project>
