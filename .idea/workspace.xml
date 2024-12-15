@@ -1,141 +1,73 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="AutoImportSettings">
-    <option name="autoReloadType" value="SELECTIVE" />
-  </component>
   <component name="ChangeListManager">
-    <list default="true" id="e69521ba-70e7-4543-923b-91f5876f421c" name="Changes" comment="17 file donavanti">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Program(18).py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Program(18).py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Program(19).py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Program(19).py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Program(20).py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Program(20).py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Program(21).py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Program(21).py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Program(22).py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Program(22).py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Program(23).py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Program(23).py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Program(24).py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Program(24).py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Program(25).py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Program(25).py" afterDir="false" />
+    <list default="true" id="fc5770b8-c8b2-4345-ab69-c7b93e022e04" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Program(26).py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Program(26).py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Program(27).py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Program(27).py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Python Script" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory">{
-  &quot;lastFilter&quot;: {
-    &quot;state&quot;: &quot;OPEN&quot;,
-    &quot;assignee&quot;: &quot;PriyanshuMahala&quot;
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "PriyanshuMahala"
   }
-}</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/PriyanshuMahala/practical-AI-&quot;,
-    &quot;accountId&quot;: &quot;80f5d7f3-6286-45a8-bb6f-fcdf715c15c9&quot;
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/PriyanshuMahala/practical-AI-.git",
+    "accountId": "b302a9a5-534b-48bb-81f1-316e98572828"
   }
-}</component>
-  <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 1
-}</component>
-  <component name="ProjectId" id="2o4FidRKrqtdn48bpqCHn7VcNbk" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
-    <ConfirmationsSetting value="2" id="Add" />
+}]]></component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/Program(26).py" root0="SKIP_INSPECTION" />
   </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 0
+}]]></component>
+  <component name="ProjectId" id="2qFb3K3DLx7VUFYNQxzHpClUcLI" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "Python.Program(1).executor": "Debug",
-    "Python.Program(10).executor": "Debug",
-    "Python.Program(11).executor": "Debug",
-    "Python.Program(13).executor": "Debug",
-    "Python.Program(14).executor": "Debug",
-    "Python.Program(15).executor": "Debug",
-    "Python.Program(16).executor": "Debug",
-    "Python.Program(17).executor": "Debug",
-    "Python.Program(18).executor": "Debug",
-    "Python.Program(19).executor": "Debug",
-    "Python.Program(2).executor": "Debug",
-    "Python.Program(20).executor": "Debug",
-    "Python.Program(21).executor": "Debug",
-    "Python.Program(22).executor": "Debug",
-    "Python.Program(23).executor": "Debug",
-    "Python.Program(24).executor": "Debug",
-    "Python.Program(25).executor": "Debug",
-    "Python.Program(3).executor": "Debug",
-    "Python.Program(4).executor": "Debug",
-    "Python.Program(5).executor": "Debug",
-    "Python.Program(6).executor": "Debug",
-    "Python.Program(7).executor": "Debug",
-    "Python.Program(8).executor": "Debug",
-    "Python.Program(9).executor": "Debug",
-    "Python.Program_1.executor": "Debug",
-    "Python.Program_2.executor": "Debug",
+    "Python.Program(26).executor": "Debug",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "ToolWindow.Run.ShowToolbar": "false",
-    "full.screen.before.presentation.mode": "false",
-    "git-widget-placeholder": "master",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+    "git-widget-placeholder": "master"
   }
 }]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-fb887030ada0-aa17d162503b-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-243.21565.199" />
+        <option value="bundled-python-sdk-975db3bf15a3-31b6be0877a2-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.18034.82" />
       </set>
     </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="e69521ba-70e7-4543-923b-91f5876f421c" name="Changes" comment="" />
-      <created>1730121070176</created>
+      <changelist id="fc5770b8-c8b2-4345-ab69-c7b93e022e04" name="Changes" comment="" />
+      <created>1734261069465</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1730121070176</updated>
+      <updated>1734261069465</updated>
     </task>
-    <task id="LOCAL-00001" summary="na">
-      <option name="closed" value="true" />
-      <created>1730883635759</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1730883635759</updated>
-    </task>
-    <task id="LOCAL-00002" summary="Half done">
-      <option name="closed" value="true" />
-      <created>1734006238596</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1734006238596</updated>
-    </task>
-    <task id="LOCAL-00003" summary="17 file donavanti">
-      <option name="closed" value="true" />
-      <created>1734176018230</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1734176018230</updated>
-    </task>
-    <option name="localTasksCounter" value="4" />
     <servers />
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="na" />
-    <MESSAGE value="Half done" />
-    <MESSAGE value="17 file donavanti" />
-    <option name="LAST_COMMIT_MESSAGE" value="17 file donavanti" />
   </component>
 </project>
